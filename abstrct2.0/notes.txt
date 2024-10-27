@@ -1,0 +1,37 @@
+
+---
+Title: Algorithmic Abstracts
+
+Description:
+Algorithmic Abstracts is a captivating collection of digital art pieces generated through a sophisticated blend of mathematical algorithms and creative randomness. 
+Each artwork in this collection is a unique fusion of geometric patterns, noise textures, fractal designs, and symmetrical compositions, all harmonized with vibrant, 
+pastel, monochrome, or dark themes.
+
+The process begins with a blank canvas, which is then transformed through multiple layers of algorithmically generated shapes and patterns. 
+The algorithms draw inspiration from natural phenomena and mathematical functions, creating intricate designs that are both visually stunning 
+and intellectually stimulating. The use of randomization ensures that no two pieces are alike, offering a fresh and unique visual experience with each artwork.
+The collection showcases the beauty of computational creativity, where art and technology intersect to produce mesmerizing visuals. Whether it's the bold and 
+dynamic shapes, the delicate and intricate fractals, or the harmonious symmetry, each piece invites viewers to explore the endless possibilities of algorithmic art.
+
+
+Key Features:
+* Geometric Patterns: Circles, rectangles, and triangles arranged in visually appealing compositions.
+* Noise Textures: Random noise patterns adding depth and complexity.
+* Fractal Designs: Mandelbrot and Julia sets creating intricate and infinite patterns.
+* Symmetry and Asymmetry: Balanced and unbalanced designs for visual interest.
+* Thematic Variations: Vibrant, pastel, monochrome, and dark themes to suit different aesthetic preferences.
+
+
+Purpose:
+The purpose of this collection is to explore the intersection of art and technology, demonstrating how algorithms can be used to create visually compelling and unique pieces of art. It aims to inspire curiosity and appreciation for the beauty that can emerge from mathematical and computational processes.
+---
+
+
+---
+[Running] python -u "c:\D\Desktop\abstrct2.0\main.py"
+Generated 10000 abstract art images in 'c:\D\Desktop\abstrct2.0\abstract_art_output\images' and metadata in 'c:\D\Desktop\abstrct2.0\abstract_art_output\metadata'
+
+[Done] exited with code=0 in 35431.06 seconds
+
+Thus, 35431 seconds is equivalent to 9 hours, 50 minutes, and 31 seconds.
+---
